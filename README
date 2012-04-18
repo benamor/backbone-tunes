@@ -1,7 +1,9 @@
-Simple Model: A backbone.js demo
+Backbone Tunes: A backbone.js demo
 ==================================
 
-This demo loads only a simple model and view. It displays no content and must be driven from the command line.
+- Displays a list of available albums and their tracks
+- Allows queueing albums for playback
+- Plays the queue, one track at a time
 
 USAGE
 =====
